@@ -1,0 +1,112 @@
+
+
+p{
+/* Madison Fishtrom */
+
+  position: relative;
+  width: 608px;
+  height: 420px;
+  left: 416px;
+  top: 240px;
+
+  font-family: Sacramento;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 144px;
+  line-height: 210px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-feature-settings: 'kern' off;
+
+  color: #6C6B6B;
+}
+
+.m-resume{
+  /* Resume */
+
+
+  position: absolute;
+  width: 153px;
+  height: 112px;
+  left: 263px;
+  top: 36px;
+
+  font-family: Gidugu;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 119px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #6C6B6B;
+}
+
+.about-me{
+  /* About Me */
+
+  position: absolute;
+  width: 184px;
+  height: 112px;
+  left: 627px;
+  top: 36px;
+
+  font-family: Gidugu;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 119px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #6C6B6B;
+}
+
+.m-portfolio{
+  /* Portfolio */
+
+  position: absolute;
+  width: 159px;
+  height: 112px;
+  left: 1024px;
+  top: 36px;
+
+  font-family: Gidugu;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 119px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #6C6B6B;
+}
+
+img{
+  /* pink-chalk-texture 1 */
+
+  position: absolute;
+  width: 1075px;
+  height: 604px;
+  left: 182px;
+  top: 148px;
+
+  background: url(pink-chalk-texture.png);
+  opacity: 0.5;
+  z-index: -1;
+}
+
+
+body{
+  /*background*/
+
+  position: relative;
+  width: 1440px;
+  height: 900px;
+
+  background: #FFF0F0;
+}
