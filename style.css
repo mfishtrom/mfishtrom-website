@@ -1,6 +1,6 @@
 
 
-p{
+body {
 /* Madison Fishtrom */
 
   position: relative;
@@ -12,7 +12,6 @@ p{
   font-family: 'Sacramento', cursive;
   font-style: normal;
   font-weight: normal;
-  font-size: 144px;
   line-height: 210px;
   display: flex;
   align-items: center;
