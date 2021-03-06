@@ -1,25 +1,42 @@
-
-
 body {
+  background: "pink-chalk-texture.png";
+}
+
+h1 {
 /* Madison Fishtrom */
 
   position: relative;
-  width: 608px;
+  /* width: 608px;
   height: 420px;
   left: 416px;
-  top: 240px;
+  top: 240px; */
 
   font-family: 'Sacramento', cursive;
   font-style: normal;
   font-weight: normal;
-  line-height: 210px;
+  /* line-height: 210px; */
   display: flex;
   align-items: center;
   text-align: center;
-  font-feature-settings: 'kern' off;
+  /* font-feature-settings: 'kern' off; */
 
   color: #6C6B6B;
 }
+
+/* Spacing */
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Pages */
 
 .m-resume{
   /* Resume */
